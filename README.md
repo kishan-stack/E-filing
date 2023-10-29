@@ -1,11 +1,11 @@
 # E-filing
 Block chain based solution for filing of legal records 
-Login UI
-![Login UI](https://github.com/kishan-stack/E-filing/assets/113700513/7198e36e-67e0-429c-8f3c-991eb7648f73)
-
-
 Sign-up UI
-![sign-up UI](https://github.com/kishan-stack/E-filing/assets/113700513/607102ac-1df9-4784-8584-e306fb3c8040)
+![Login (3)](https://github.com/kishan-stack/E-filing/assets/113700513/c157dd5c-ff65-4ed5-8134-f3a7a19f7407)
+
+
+Login UI
+![Login (1)](https://github.com/kishan-stack/E-filing/assets/113700513/3e69fdf1-10f7-4219-9d44-27518fae77fb)
 
 
 Lawyer UI
